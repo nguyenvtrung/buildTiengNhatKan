@@ -1,0 +1,1 @@
+import{at as t}from"./index-CbkCS8gm.js";const e=()=>({data:[t.AI_DICH,t.AI_VIDEO,t.AI_KANJI,t.AI_DOC].map((a,i)=>({id:`ai-${i+1}`,tieude:a.title,path:a.path,mieuta:a.description,name:a.name,iconImg:a.iconImg,trangthai:a.status})).filter(a=>a.path)});export{e as g};
