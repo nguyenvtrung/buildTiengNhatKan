@@ -1,1 +1,0 @@
-import{at as t}from"./index-B7rd-39B.js";const m=()=>({data:[t.VIP_LIST_PAGE,t.JLPT_LIST,t.TOKUTEI_LIST,t.AI_DICH,t.AI_VIDEO,t.AI_KANJI,t.AI_DOC].map((a,I)=>({id:`ai-${I+1}`,tieude:a.title,path:a.path,mieuta:a.description,name:a.name,iconImg:a.iconImg,trangthai:a.status,ghim:a.ghim||!1})).filter(a=>a.path)});export{m as g};
